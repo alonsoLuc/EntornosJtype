@@ -52,5 +52,6 @@ public class jtype {
           }
     //Esto es un cambio de Entornos
 		//Esto es un 2cambio con GitKraken
+//Este es un 3 cambio con GitKraken
 }
 }
